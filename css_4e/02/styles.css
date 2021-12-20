@@ -17,15 +17,6 @@ h1 {
   font-size: 3em;
   margin: 0;
 }
-p,
-address {
-  font-family: "Palatino Linotype", Baskerville, serif;
-  font-size: 1.25em;
-  color: #616161;
-  line-height: 150%;
-  margin-top: 20px;
-  margin-left: 60px;
-}
 h2 {
   color: #b1967c;
   font-family: "Kurale", "Arial Black", serif;
@@ -35,6 +26,22 @@ h2 {
   background: url(images/head-icon.png) no-repeat 10px 10px;
   padding: 0 0 2px 60px;
   margin: 0;
+}
+p,
+address {
+  font-family: "Palatino Linotype", Baskerville, serif;
+  font-size: 1.25em;
+  color: #616161;
+  line-height: 150%;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+.intro {
+  color: #666666;
+  font-family: "Kurale", Helvetica, sans-serif;
+  font-size: 1.2em;
+  margin-left: 0;
+  margin-bottom: 25px;
 }
 .intro {
   color: #666666;
